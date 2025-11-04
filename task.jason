@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "description" : "Buy groceries and fruits",
+  "status" : "todo",
+  "createdAt" : "2025-11-02T03:36:46.383862700Z",
+  "updatedAt" : "2025-11-03T23:28:30.386692Z"
+}, {
+  "id" : 3,
+  "description" : "Read a book",
+  "status" : "done",
+  "createdAt" : "2025-11-04T06:41:13.713341600Z",
+  "updatedAt" : "2025-11-04T06:43:31.209155500Z"
+} ]
